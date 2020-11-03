@@ -66,10 +66,10 @@ public class Main {
         char num =((char) t);
             System.out.println("Ответ на задание №12: "+num);
         }
-        public static void isMax(){
-        int i = Integer.MAX_VALUE;
-        int k = Integer.MAX_VALUE+1;
-            System.out.println("Ответ на задание №10: "+Integer.toBinaryString(i));
-            System.out.println("Ответ на задание №10: "+Integer.toBinaryString(k));
+        public static void isMax() {
+            int i = Integer.MAX_VALUE;
+            int k = Integer.MAX_VALUE + 1;
+            System.out.println("Ответ на задание №10: " + Integer.toBinaryString(i));
+            System.out.println("Ответ на задание №10: " + Integer.toBinaryString(k));
         }
 }
