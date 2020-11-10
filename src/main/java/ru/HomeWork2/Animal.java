@@ -15,6 +15,7 @@ public class Animal {
         System.out.println("Звук который издает животное");
     }
 
+
     public void doMove() {
         System.out.println("Способ передвижения");
     }
