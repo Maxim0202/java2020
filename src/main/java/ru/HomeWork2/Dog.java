@@ -8,7 +8,7 @@ public class Dog extends Animal {
       this(1,9,"Млекопитающие");
     }
     @Override
-    public void doVoice(){
+    public void doVoice() {
         super.doVoice();
         System.out.println("Собака гавкает");
     }
