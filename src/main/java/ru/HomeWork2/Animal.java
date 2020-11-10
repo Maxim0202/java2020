@@ -1,7 +1,7 @@
 package ru.HomeWork2;
 
 public class Animal {
-    protected int age;
+    private int age;
     protected int weigth;
     protected String clas;
 
